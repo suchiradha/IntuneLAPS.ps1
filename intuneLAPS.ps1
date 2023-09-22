@@ -60,6 +60,6 @@ try{
     Write-Host "Retrieved LAPS password of device ID $ID"
 }
 catch {
-    Write-Host "An error occurred: $_"
+    Write-Host "An error occurred"
 }
 
